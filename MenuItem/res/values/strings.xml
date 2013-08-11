@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MenuItem</string>
+    <string name="setting">Settings</string>
+    <string name="about">about</string>
+    <string name="credit">credit</string>
+
+</resources>
